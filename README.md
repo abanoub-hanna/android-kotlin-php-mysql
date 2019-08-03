@@ -1,9 +1,6 @@
-# CRUD - App Android Kotlin + Webservice PHP + MySQL
+# CRUD - Android App Kotlin + Webservice PHP + MySQL 
 
-[Clique aqui para ver este App feito em Java](https://www.github.com/adrianogba/android-java-php-mysql) 
-
-
-Este App é um exemplo de CRUD feito com as tecnologias mencionadas acima utilizando bibliotecas e estruturas para:
+This App is an example of CRUD made with the technologies mentioned above using libraries and frameworks to:
 * ListAdapter
 * RESTful
 * JSON
@@ -12,23 +9,15 @@ Este App é um exemplo de CRUD feito com as tecnologias mencionadas acima utiliz
 * SimpleDateFormat
 
 
-## Prints
+## Images
 
 ![Alt text](images/prints.png?raw=true)
 
-## Como utilizar
+## How to use
 
-* Configure seu servidor PHP (Como o XAMPP por exemplo)
-* Abra seu banco de dados e rode o script no arquivo banco.sql para criar as tabelas
-* Copie o webservice para seu servidor PHP 
-* Configure os dados de acesso ao banco de dados (endereço do banco, usuário, senha e nome do banco utilizado) no arquivo dbConnect.php
-* No App abra o Strings.xml na pasta Values e altere o endereço do webservice para o que você estiver usando (ou o ip da sua maquina caso esteja usando um servidor em rede local).
-* Verifique se seu antivírus pode estar bloqueando a comunicação com o servidor caso esteja usando um servidor local.
-
-
-## Contato
-
-Mais informações sobre mim e formas de contato em: [adrianogba.github.io](https://adrianogba.github.io/) 
-
-
-
+* Set up your PHP server (like XAMPP for example)
+* Open your database and run the script in the database.sql file to create the tables.
+* Copy webservice to your PHP server
+* Configure database access data (bank address, user, password, and bank name used) in the dbConnect.php file
+* In the App open Strings.xml in the Values ​​folder and change the webservice address to what you are using (or your machine's ip if you are using a local network server).
+* Make sure your antivirus might be blocking communication with the server if you are using a local server.
